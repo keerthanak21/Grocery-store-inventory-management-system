@@ -54,14 +54,14 @@ CSV file as product database
 Standard C libraries: stdio.h, stdlib.h, string.h, time.h
 
 ### How to Run
-Clone the repository:git clone 
-cd inventory-management-system
+Clone the repository:```git clone https://github.com/keerthanak21/Grocery-store-inventory-management-system.git
+cd inventory-management-system```
 Make sure csv file is present in the same directory as your source code.
 
 ### Compile the code:
-gcc -o supermarket supermarket.c
+```gcc -o supermarket supermarket.c```
 ### Run the program:
-./supermarket
+```./supermarket```
 
 
 ### Features
