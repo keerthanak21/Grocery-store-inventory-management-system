@@ -5,7 +5,7 @@ This system helps store product details, handle admin & user operations, manage 
 
 ---
 
-## 📌 **Objective**
+##  **Objective**
 
 The goal of this project is to replace a manual sales record system with software that:
 - Reduces paperwork
@@ -15,17 +15,17 @@ The goal of this project is to replace a manual sales record system with softwar
 
 ---
 
-## ⚙️ **Project Description**
+##  **Project Description**
 
 The system is divided into two parts:
 
-### 🛡️ Admin
+### Admin
 - Login with password (max 3 attempts)
 - View all products in each category
 - Update product price or quantity
 - Delete products from categories
 
-### 👤 User
+### User
 - View products sorted by expiry date
 - Search for items
 - Add items to shopping cart
@@ -38,7 +38,7 @@ Each category and product has a unique ID.
 
 ---
 
-## 📂 **CSV File Format**
+##  **CSV File Format**
 
 The system reads initial data from a file named `final_csv.csv`.
 
