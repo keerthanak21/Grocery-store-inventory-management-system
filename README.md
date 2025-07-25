@@ -48,4 +48,32 @@ The system reads initial data from a file named `final_csv.csv`.
 |----|-----|------|------:|--------:|---:|
 | int | int | string | int | string (dd-mm-yyyy) | int |
 
+### Technologies & Requirements
+C Programming Language
+CSV file as product database
+Standard C libraries: stdio.h, stdlib.h, string.h, time.h
+
+### How to Run
+Clone the repository:git clone 
+cd inventory-management-system
+Make sure csv file is present in the same directory as your source code.
+
+### Compile the code:
+gcc -o supermarket supermarket.c
+### Run the program:
+./supermarket
+
+
+### Features
+Login system for admin and users
+Category-based product listing
+Products sorted by expiry date
+Cart management: add, view, delete items
+Final bill calculation
+Search items by name
+
+### Conclusion
+This Supermarket Management System helps replace manual record-keeping, saves time on calculations, and reduces paperwork, making supermarket operations smoother and faster.
+
+
 
